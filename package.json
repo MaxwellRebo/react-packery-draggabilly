@@ -1,7 +1,7 @@
 {
   "name": "react-packery-component",
   "version": "1.0.2",
-  "main": "./lib/index",
+  "main": "dist/index.js",
   "description": "A Packery component for React.js",
   "dependencies": {
     "packery": "eiriklv/packery",
